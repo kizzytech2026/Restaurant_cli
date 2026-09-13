@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "Chapo Beans",
+        "price": 150
+    },
+    {
+        "id": 2,
+        "name": "Ugali & Sukuma",
+        "price": 150
+    },
+    {
+        "id": 3,
+        "name": "Grilled Chicken",
+        "price": 700
+    },
+    {
+        "id": 4,
+        "name": "Chips (served with coleslaw)",
+        "price": 200
+    },
+    {
+        "id": 5,
+        "name": "Classic Beef Burger",
+        "price": 1100
+    },
+    {
+        "id": 6,
+        "name": "Chocolate Cake",
+        "price": 250
+    },
+    {
+        "id": 7,
+        "name": "Lemon Tea",
+        "price": 150
+    },
+    {
+        "id": 8,
+        "name": "Fresh Orange Juice",
+        "price": 100
+    },
+    {
+        "id": 9,
+        "name": "Chicken Tikka Pizza",
+        "price": 1500
+    },
+    {
+        "id": 10,
+        "name": "Beef Burger",
+        "price": 1100.0
+    },
+    {
+        "id": 11,
+        "name": "Beef Steak",
+        "price": 1500.0
+    }
+]
